@@ -1,4 +1,4 @@
-👋 Olá, eu sou *Denner Silva*
+#👋 Olá, eu sou *Denner Silva*
 ## 👀 Meu interesse é na área de Front-end, porém não me limito em aprender outras áreas como Back-end e quem sabe me tornar um Fullstack
 ## 🌱 Atualmente estou aprendendo as tecnologias de desenvolvimento como HTML, CSS e JAVASCRIPT
 ## 💞️ Procuro colaborar com a comunidade Front-end, aprendenedo mais com os feedbacks recebidos e ficar atualizado na área
